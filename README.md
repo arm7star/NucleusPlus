@@ -6,9 +6,9 @@ Nucleus PLUS is a real-time, preemptive, multitasking kernel designed for time-c
 Because of this, Nucleus PLUS is extremely portable and is currently available for use with most microprocessor families.
 
 # Toolchain
-##linux
+## linux
 gcc-arm-none-eabi-4_9-2015q3-20150921-linux
-##Cygwin
+## Cygwin
 Cygwin
 gcc-arm-none-eabi-4_9-2015q3-20150921-win32
 make.exe
