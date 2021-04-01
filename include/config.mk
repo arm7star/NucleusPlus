@@ -1,0 +1,3 @@
+ARCH   = arm
+CPU    = s3c2440a
+BOARD  = SMDK2440
