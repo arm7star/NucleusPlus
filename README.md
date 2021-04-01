@@ -5,6 +5,8 @@ Nucleus Plus real-time operating system 1.12.4 for SMDK2440 with qemu.
 Nucleus PLUS is a real-time, preemptive, multitasking kernel designed for time-critical embedded applications. Approximately 95% of Nucleus PLUS is written in ANSI C.
 Because of this, Nucleus PLUS is extremely portable and is currently available for use with most microprocessor families.
 
+https://en.wikipedia.org/wiki/Nucleus_RTOS
+
 # Toolchain
 ## linux
 gcc-arm-none-eabi-4_9-2015q3-20150921-linux
